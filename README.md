@@ -1,4 +1,15 @@
-## Hi there 👋
+## Software Developer
+2nd year computer Science student. I like to code and create software. I am currently also making a website
+as a cv/profile. One of my repos is an app you can download.
+
+## Skills:
+- CSS
+- HTML
+- Kotlin
+- C/C++
+- PHP
+- SQL
+- Python
 
 <!--
 **TPdkr/TPdkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
