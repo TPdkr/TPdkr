@@ -29,6 +29,7 @@ asynchronous and object oriented programming.
 ## Skills:
 - CSS
 - HTML
+- JavaScript
 - Kotlin
 - C/C++
 - PHP
