@@ -11,6 +11,7 @@ An android app for learning German vocabulry in a nice an simple way. Organize w
 get motivated and have fun.
 
 #### CV website
+https://tpdkr.github.io/cv_page/
 A website that is still in the works that covers my experiences and projects. Not yet finished.
 
 #### Causal Machine laerning hackathon
