@@ -33,11 +33,11 @@ Never truly finished as the projects page is empty
 - [repository page](https://github.com/TPdkr/cv_page)
 - [website main page](https://tpdkr.github.io/cv_page/)
 
-## Computer vision course (2025)
+## Computer vision course (Fall 2025)
 These are my computer vision assignment with Python grouped into a single repo. Published after completion of the course.
 - [repository page](https://github.com/TPdkr/computer_vision_cub_hw)
 
-## Software engineering repo (2025)
+## Software engineering repo (Spring 2025)
 - [repository page](https://github.com/AnuraagDeshpande/SoftwareSuperProject_repo)
 
 ## Genau(Learner) German vocabulary app (2025)
@@ -48,7 +48,7 @@ get motivated and have fun.
 ## Causal Machine laerning hackathon(2024)
 A hackathon where I participated during Fall 2024.
 
-## OS (C/Linux)(2024)
+## OS (C/Linux)(Fall 2024)
 I have uploaded coding assignments for the Operating systems course, which I took in Fall 2024.
 They are on topics such as pipes, forking, signals, semaphores and Internet protocol.
 
@@ -62,7 +62,7 @@ They are on topics such as pipes, forking, signals, semaphores and Internet prot
 - [hw 2](https://github.com/TPdkr/OS-homework-2)
 - [hw 1](https://github.com/TPdkr/OS-homework-1)
 
-## Kotlin course assignments(2024)
+## Kotlin course assignments(Spring 2024)
 Assignments of the Kotlin course I took in Spring 2024. They tackle problems such as
 asynchronous and object oriented programming. A lot of assignments were 
 different courses to complete in a limited amount of time.
@@ -73,7 +73,10 @@ different courses to complete in a limited amount of time.
 - [Refractoring course](https://github.com/TPdkr/Refactoring_Course)
 - [CSC kotlin course](https://github.com/TPdkr/CSC_Kotlin_Course)
 
-
+## Algorithms and data structures course(Spring 2024)
+The assignments for Algorithms and data structures course I completed at Constructor University Bremen. I 
+used C/C++ for tasks and Python for visualizations.
+- [algorithms and data structures repo](https://github.com/TPdkr/algorithms-and-data-structures-hw)
 
 <!--
 **TPdkr/TPdkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
