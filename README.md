@@ -20,7 +20,10 @@ I also have a personal website that has links and descriptions of most of my pro
 - VS Code, IntelliJ IDEA, Android Studio
 
 # REPOSITORIES
-Here are the main groups of my repositories listed below. Most of them fall into one of the following.
+I listed the most important and relevant repositories in reverse chronological order in order to make it easier to 
+find whatever you are looking for. 
+
+This list includes repositories hosted on my account as well as some I have contributed to.
 
 ## CV website 2.0 and 1.0
 #### 2.0 (2026)
@@ -47,6 +50,7 @@ get motivated and have fun.
 
 ## Causal Machine laerning hackathon(2024)
 A hackathon where I participated during Fall 2024.
+- [hackathon repo](https://github.com/AnuraagDeshpande/bmw_hackathon)
 
 ## OS (C/Linux)(Fall 2024)
 I have uploaded coding assignments for the Operating systems course, which I took in Fall 2024.
@@ -77,6 +81,11 @@ different courses to complete in a limited amount of time.
 The assignments for Algorithms and data structures course I completed at Constructor University Bremen. I 
 used C/C++ for tasks and Python for visualizations.
 - [algorithms and data structures repo](https://github.com/TPdkr/algorithms-and-data-structures-hw)
+
+## Programming in C and C++(Fall 2023)
+The assignments of the course grouped into a repo.
+
+- [programming in C and C++ repo](https://github.com/TPdkr/Programming-in-C-and-C-)
 
 <!--
 **TPdkr/TPdkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
