@@ -25,6 +25,12 @@ find whatever you are looking for.
 
 This list includes repositories hosted on my account as well as some I have contributed to.
 
+## Logged Out 2026
+A linkdIn scraper, job posting analyzer written in Python. It finds most common words in a Job posting or
+in all posting for a given search query.
+
+- [repository page](https://github.com/TPdkr/loggedout)
+
 ## CV website 2.0 and 1.0
 #### 2.0 (2026)
 This is a reworked 1.0 with React intead of plain HTML,JS also with more content and better style.
