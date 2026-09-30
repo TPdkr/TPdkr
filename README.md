@@ -1,7 +1,8 @@
-# COMPUTER SCIENCE BACHELOR'S STUDENT
+# SOFTWARE SYSTEMS ENGINEERING MASTERS'S STUDENT
 ## About me:
-***3nd year computer Science student at constructor university bremen***. I like to code and solve challenging problems.
-I am currently also making a website as a cv/profile. One of my repos is a lanuage learning app you can download.
+
+I am currently studying ***in RWTH Aachen in program Software systems engineering***. I have also completed ***BSc computer Science student at constructor university bremen***. I like to code and solve challenging problems.
+I am currently also making a website as a cv/profile and other projects.
 
 I also have a personal website that has links and descriptions of most of my projects and experiences.
 [personal website main page](https://tpdkr.github.io/cv_page2/)
@@ -25,11 +26,11 @@ find whatever you are looking for.
 
 This list includes repositories hosted on my account as well as some I have contributed to.
 
-## Logged Out 2026
-A linkdIn scraper, job posting analyzer written in Python. It finds most common words in a Job posting or
+## 2026
+- [Bachelor thesis](https://github.com/TPdkr/thesis) Bachelor thesis code and text
+- [CaughtUp](https://github.com/TPdkr/caughtup) A simple CLI app to track series watch progress and updates. Includes UML and text documentation.
+- [Logged out](https://github.com/TPdkr/loggedout) A linkdIn scraper, job posting analyzer written in Python. It finds most common words in a Job posting or
 in all posting for a given search query.
-
-- [repository page](https://github.com/TPdkr/loggedout)
 
 ## CV website 2.0 and 1.0
 #### 2.0 (2026)
