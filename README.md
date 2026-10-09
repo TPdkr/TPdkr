@@ -8,7 +8,7 @@ I also have a personal website that has links and descriptions of most of my pro
 [personal website main page](https://tpdkr.github.io/cv_page2/)
 
 ## Skills
-- ***Languages:*** Kotlin, C, C++, Python, PHP, JavaScript, Haskell
+- ***Languages:*** Python, C, C++, JavaScript, Kotlin,  PHP, Haskell
 - ***Web technologies:*** HTML, CSS, React, SQL
 - ***Developer tools:*** Git, GitHub, Linux, Makefiles, LateX, UML
 - ***IDEs:*** VS Code, IntelliJ IDEA, Android Studio
